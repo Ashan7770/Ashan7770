@@ -1,4 +1,4 @@
-Hi, I'm @Ashan7770
+Hi, I'm Dmitry
 - 👀 I am interested in programming
 - 🌱 I am currently studying at the Skillfactory 
 - 💞️ I am ready to cooperate on the common work of C++ 
